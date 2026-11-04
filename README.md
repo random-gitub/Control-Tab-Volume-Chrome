@@ -10,3 +10,18 @@ Due to browser security settings, folders cannot be injected automatically. Foll
 
 *The entire folder and all its contents will immediately appear in your browser's Bookmarks bar under an "Imported" folder.*
 
+High Volume Booster (Anti-Clipping + Increments + Zero Lag)
+How it works: Each time you click it, it steps up the volume (1.5x ➔ 2.0x ➔ 2.5x ➔ 3.0x ➔ 3.5x ➔ 4.0x, then loops back to normal).
+
+Anti-Clipping: It routes the audio through a professional DynamicsCompressorNode which automatically controls loud peaks so the sound never distorts or cracks.
+
+No Lag / Natural Reset: It runs instantly on click and goes to sleep. Because there is no background loop eating your CPU, changing videos or reloading naturally resets it cleanly.
+
+
+Low Volume Step-Down (Fixed & Resumed)
+Clicks step down: 30% ➔ 20% ➔ 10% ➔ 5% ➔ 1%
+
+
+Reset Audio
+Instantly resets the volume back to normal, closes the audio processor, and clears your click counter.
+
